@@ -1,0 +1,13 @@
+# Dependency directories
+/node_modules
+
+# Distribution files
+/dist
+
+# IDE and editor files
+/.vscode
+/.DS_Store
+
+# Miscellaneous
+/*.log
+/*.swp
